@@ -1,0 +1,7 @@
+PyQt5>=5.15.0
+numpy>=1.19.0
+sounddevice>=0.4.4
+keyboard>=0.13.5
+openai-whisper>=20230314
+speechbrain>=0.5.0
+torch>=1.12.1
