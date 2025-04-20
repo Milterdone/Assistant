@@ -18,7 +18,7 @@ A desktop voice assistant application built with Python and PyQt5. It leverages 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
+   git clone https://github.com/Milterdone/Assistant.git
    cd voice-assistant
    ```
 
